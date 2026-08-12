@@ -11,7 +11,8 @@ and generate a final recipe.
 
 
 ```text
-PASTE_YOUR_DEMO_VIDEO_LINK_HERE=https://drive.google.com/file/d/1FORkPW53VZHc3ZztA_1QaYostAzba4v_/view?usp=drivesdk
+PASTE_YOUR_DEMO_VIDEO_LINK_HERE 
+https://drive.google.com/file/d/1FORkPW53VZHc3ZztA_1QaYostAzba4v_/view?usp=drivesdk
 ---
 
 ## ✨ Features
